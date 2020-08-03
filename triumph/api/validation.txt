@@ -1,0 +1,9 @@
+Registeration
+
+Please enter full name
+Please enter email
+Please enter valid email
+Please enter mobile number
+Please enter valid mobile number
+Please enter mobile number
+Please enter valid mobile number

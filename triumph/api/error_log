@@ -1,0 +1,63 @@
+[03-Oct-2019 13:46:04 GMT] PHP Warning:  require_once(/home/gbfilmfl/royalsparsh.in/trimph/api/system/core/CodeIgniter.php): failed to open stream: No such file or directory in /home/gbfilmfl/royalsparsh.in/trimph/api/index.php on line 282
+[03-Oct-2019 13:46:04 GMT] PHP Fatal error:  require_once(): Failed opening required '/home/gbfilmfl/royalsparsh.in/trimph/api/system/core/CodeIgniter.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/gbfilmfl/royalsparsh.in/trimph/api/index.php on line 282
+[03-Oct-2019 18:21:50 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[03-Oct-2019 18:31:59 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[03-Oct-2019 18:33:53 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[03-Oct-2019 18:38:55 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[03-Oct-2019 18:42:58 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[03-Oct-2019 23:45:30 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[03-Oct-2019 23:55:40 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[03-Oct-2019 23:57:50 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[04-Oct-2019 00:04:32 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[04-Oct-2019 00:15:09 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[04-Oct-2019 00:18:01 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[04-Oct-2019 00:27:36 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[04-Oct-2019 00:34:40 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[04-Oct-2019 05:53:56 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[04-Oct-2019 08:28:03 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[04-Oct-2019 11:25:55 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[04-Oct-2019 11:26:09 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[04-Oct-2019 12:03:50 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[07-Oct-2019 05:32:41 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[07-Oct-2019 05:46:01 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[07-Oct-2019 07:34:02 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[07-Oct-2019 07:34:04 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[07-Oct-2019 07:34:15 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[07-Oct-2019 07:34:17 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[07-Oct-2019 07:34:49 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[07-Oct-2019 07:44:15 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[07-Oct-2019 07:48:04 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[07-Oct-2019 07:59:44 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[07-Oct-2019 07:59:49 GMT] PHP Fatal error:  Call to undefined function json_encode() in /home/gbfilmfl/royalsparsh.in/triumph/api/application/libraries/Format.php on line 409
+[31-Oct-2019 05:19:49 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[31-Oct-2019 05:19:49 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[31-Oct-2019 05:19:49 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home/thedent1/public_html/codegrand/triumph/api/adminer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in Unknown on line 0
+[31-Oct-2019 05:22:32 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[31-Oct-2019 05:22:32 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[31-Oct-2019 05:22:32 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home/thedent1/public_html/codegrand/triumph/api/adminer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in Unknown on line 0
+[31-Oct-2019 05:31:31 Etc/GMT] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/thedent1/public_html/codegrand/triumph/api/adminer.php on line 1422
+[31-Oct-2019 10:04:30 Etc/GMT] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/thedent1/public_html/codegrand/triumph/api/adminer.php on line 1422
+[31-Oct-2019 10:57:50 Etc/GMT] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/thedent1/public_html/codegrand/triumph/api/adminer.php on line 1422
+[26-Nov-2019 09:45:28 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[26-Nov-2019 09:45:28 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[26-Nov-2019 09:45:28 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home/thedent1/public_html/codegrand/triumph/api/adminer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in Unknown on line 0
+[26-Nov-2019 09:45:32 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[26-Nov-2019 09:45:32 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[26-Nov-2019 09:45:32 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home/thedent1/public_html/codegrand/triumph/api/adminer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in Unknown on line 0
+[26-Nov-2019 09:47:08 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[26-Nov-2019 09:47:08 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[26-Nov-2019 09:47:08 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home/thedent1/public_html/codegrand/triumph/api/adminer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in Unknown on line 0
+[26-Nov-2019 09:47:46 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[26-Nov-2019 09:47:46 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[26-Nov-2019 09:47:46 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home/thedent1/public_html/codegrand/triumph/api/adminer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in Unknown on line 0
+[26-Nov-2019 09:49:09 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[26-Nov-2019 09:49:09 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[26-Nov-2019 09:49:09 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home/thedent1/public_html/codegrand/triumph/api/adminer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in Unknown on line 0
+[29-Nov-2019 11:10:59 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[29-Nov-2019 11:10:59 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[29-Nov-2019 11:10:59 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home/thedent1/public_html/codegrand/triumph/api/adminer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in Unknown on line 0
+[29-Nov-2019 11:11:06 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[29-Nov-2019 11:11:06 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[29-Nov-2019 11:11:06 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home/thedent1/public_html/codegrand/triumph/api/adminer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in Unknown on line 0
+[29-Nov-2019 11:21:00 Etc/GMT] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/thedent1/public_html/codegrand/triumph/api/adminer.php on line 1422
+[18-Mar-2020 15:14:13 Etc/GMT] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ceramic/public_html/codegrand.com/triumph/api/adminer.php on line 1422
