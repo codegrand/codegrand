@@ -1,4 +1,0 @@
-<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
-
-ERROR - 2020-07-26 22:31:29 --> Query error: Column 'password' cannot be null - Invalid query: INSERT INTO `user` (`name`, `email_id`, `mobile_no`, `device_id`, `device_version`, `mobile_otp`, `email_pin`, `is_email_verified`, `password`, `is_password_set`) VALUES ('Kaam karo Nam karo', 'kaamkaronamkaro@gmail.com', '', '351540061579116', '1', '3216', '3182', '1', NULL, '1')
-ERROR - 2020-07-26 22:33:25 --> Query error: Column 'password' cannot be null - Invalid query: INSERT INTO `user` (`name`, `email_id`, `mobile_no`, `device_id`, `device_version`, `mobile_otp`, `email_pin`, `is_email_verified`, `password`, `is_password_set`) VALUES ('Kaam karo Nam karo', 'kaamkaronamkaro@gmail.com', '', '351540061579116', '1', '9846', '2968', '1', NULL, '1')
